@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic');
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+@import 'components/navigation-menu-095478ff7ca01820af9757195461e8bf.css';
+@import 'components/page-header-947d2e79bebaeff363642b7924da12b9.css';
+@import 'components/blog-overview-9774b1eb838210ce3f5560e1cca6ac05.css';
+@import 'components/blog-card-b2d6305fc9428a18b96668298677a44d.css';
+@import 'components/page-footer-9e0fd7482aeb909844b5ac6efc4186ae.css';
+
+.container {
+  max-width: 80rem;
+  padding-bottom: 7.5rem;
+  padding-top: 7.5rem;
+}
